@@ -1,0 +1,14 @@
+p {
+    color: burlywood;
+}
+
+h1 {
+    background-color: cadetblue;
+}
+
+h3 {
+    background-color: cornsilk;
+}
+h1+h3 {
+    color: darkkhaki;
+}
